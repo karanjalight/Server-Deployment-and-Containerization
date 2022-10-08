@@ -78,7 +78,7 @@ cd cd0157-Server-Deployment-and-Containerization/
 
 Completing the project involves several steps:
 
-1. Write a Dockerfile for a simple Flask API
+1. Write a Dockerfile for a simple Flask API =======DONE
 2. Build and test the container locally
 3. Create an EKS cluster
 4. Store a secret using AWS Parameter Store
